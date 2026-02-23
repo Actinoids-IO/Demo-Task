@@ -1,0 +1,42 @@
+[
+ {
+  "agency_name": "Saiyyam",
+  "docstatus": 0,
+  "doctype": "Agency Management",
+  "items": [
+   {
+    "item_code": "Heartmate",
+    "lead_time_days": 12,
+    "min_order_qty": 20,
+    "parent": "Saiyyam",
+    "parentfield": "items",
+    "parenttype": "Agency Management"
+   }
+  ],
+  "modified": "2026-02-24 03:18:37.016189",
+  "name": "Saiyyam",
+  "primary_contact": "9096856561",
+  "status": "",
+  "territory": "India"
+ },
+ {
+  "agency_name": "XYZ PVT LTD",
+  "docstatus": 0,
+  "doctype": "Agency Management",
+  "items": [
+   {
+    "item_code": "Similac",
+    "lead_time_days": 20,
+    "min_order_qty": 300,
+    "parent": "XYZ PVT LTD",
+    "parentfield": "items",
+    "parenttype": "Agency Management"
+   }
+  ],
+  "modified": "2026-02-24 03:19:13.250972",
+  "name": "XYZ PVT LTD",
+  "primary_contact": "909656561",
+  "status": "",
+  "territory": "India"
+ }
+]

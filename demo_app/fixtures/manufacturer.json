@@ -1,0 +1,38 @@
+[
+ {
+  "country": "India",
+  "docstatus": 0,
+  "doctype": "Manufacturer",
+  "full_name": null,
+  "logo": null,
+  "modified": "2026-02-24 02:42:11.845185",
+  "name": "Bosch PVT LTD",
+  "notes": null,
+  "short_name": "Bosch PVT LTD",
+  "website": null
+ },
+ {
+  "country": "India",
+  "docstatus": 0,
+  "doctype": "Manufacturer",
+  "full_name": null,
+  "logo": null,
+  "modified": "2026-02-24 03:12:51.432954",
+  "name": "Abbott",
+  "notes": null,
+  "short_name": "Abbott",
+  "website": null
+ },
+ {
+  "country": "India",
+  "docstatus": 0,
+  "doctype": "Manufacturer",
+  "full_name": null,
+  "logo": null,
+  "modified": "2026-02-24 03:20:19.550077",
+  "name": "Heska Corporation",
+  "notes": null,
+  "short_name": "Heska Corporation",
+  "website": null
+ }
+]

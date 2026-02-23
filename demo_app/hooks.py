@@ -11,6 +11,18 @@ required_apps = ["frappe/erpnext"]
 
 # required_apps = []
 
+fixtures = ["Manufacturer", "Agency Management",
+        {
+            "dt": "Item", "filters": [
+            [
+                "name", "in", [
+                    "Heartmate", " Similac", "Element i+"
+                ]
+            ]
+            ]
+        },
+]
+
 # Each item in the list will be shown as an app in the apps page
 # add_to_apps_screen = [
 # 	{
