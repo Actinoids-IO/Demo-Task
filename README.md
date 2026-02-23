@@ -1,6 +1,6 @@
 ### Demo App
 
-1
+App for Demo
 
 ### Installation
 
