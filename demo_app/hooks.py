@@ -4,6 +4,7 @@ app_publisher = "Saiyyam"
 app_description = "App for Demo"
 app_email = "saiyyamchhetri@gmail.com"
 app_license = "mit"
+required_apps = ["frappe/erpnext"]
 
 # Apps
 # ------------------
